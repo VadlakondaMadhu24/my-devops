@@ -20,6 +20,7 @@ elif num > 1:
 else:
    print(num,"is not a prime number")
 
+<<<<<<< Updated upstream
 
 New code is adding in this file ========
  # check if flag is True
@@ -29,4 +30,24 @@ New code is adding in this file ========
         print(num, "is a prime number"
 
 
+=======
+new data aded*****
+in my project
+~
+
+~
+
+~
+
+~
+
+
+~
+
+~
+
+~
+
+~
+>>>>>>> Stashed changes
 
