@@ -1,3 +1,8 @@
-adding some more data 
-pqr=20
-xyz=30
+
+this is adding new code
+int x=10:
+int y=20:
+int z=x+y
+printf("z")
+z=30
+pqr=xyz
