@@ -25,6 +25,6 @@ elif num > 1:
     else:
         print(num, "is a prime number")
 
-adding new code 
-int x=20;
+adding new code
+int x=10;
 
